@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\FaceDetection\FaceDetection\obj\Debug\FaceDetection.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FaceDetection\FaceDetection\obj\Debug\FaceDetection.Form1.resources
+C:\Users\User\source\repos\FaceDetection\FaceDetection\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Users\User\source\repos\FaceDetection\FaceDetection\obj\Debug\FaceDetection.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FaceDetection\FaceDetection\obj\Debug\FaceDetection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FaceDetection\FaceDetection\bin\Debug\FaceDetection.exe.config
+C:\Users\User\source\repos\FaceDetection\FaceDetection\bin\Debug\FaceDetection.exe
+C:\Users\User\source\repos\FaceDetection\FaceDetection\bin\Debug\FaceDetection.pdb
+C:\Users\User\source\repos\FaceDetection\FaceDetection\bin\Debug\Emgu.CV.xml
+C:\Users\User\source\repos\FaceDetection\FaceDetection\bin\Debug\Emgu.CV.UI.xml
+C:\Users\User\source\repos\FaceDetection\FaceDetection\bin\Debug\Emgu.Util.xml
+C:\Users\User\source\repos\FaceDetection\FaceDetection\obj\Debug\FaceDetection.csproj.CopyComplete
+C:\Users\User\source\repos\FaceDetection\FaceDetection\obj\Debug\FaceDetection.exe
+C:\Users\User\source\repos\FaceDetection\FaceDetection\obj\Debug\FaceDetection.pdb
